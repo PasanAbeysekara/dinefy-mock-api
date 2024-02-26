@@ -1,1 +1,63 @@
+[
+  {
+    promoId: { id: 1 },
+    name: "Summer Sale",
+    description: "Get up to 50% off on selected items",
+    tierId: "tier1",
+    promoTypeId: 1,
+    start: new Date("2024-06-01"),
+    end: new Date("2024-06-30"),
+    live: true,
+    maxedOutLanding: false,
+    maxedOutSearch: false
+  },
+  {
+    promoId: { id: 2 },
+    name: "Back to School",
+    description: "Special discounts on school supplies",
+    tierId: "tier2",
+    promoTypeId: 2,
+    start: new Date("2024-08-01"),
+    end: new Date("2024-08-31"),
+    live: true,
+    maxedOutLanding: false,
+    maxedOutSearch: false
+  },
+  {
+    promoId: { id: 3 },
+    name: "Holiday Savings",
+    description: "Buy one, get one free on all holiday items",
+    tierId: "tier3",
+    promoTypeId: 3,
+    start: new Date("2024-11-01"),
+    end: new Date("2024-12-31"),
+    live: true,
+    maxedOutLanding: false,
+    maxedOutSearch: false
+  },
+  {
+    promoId: { id: 4 },
+    name: "Winter Clearance",
+    description: "Clearance sale on winter clothing",
+    tierId: "tier4",
+    promoTypeId: 4,
+    start: new Date("2025-01-01"),
+    end: new Date("2025-01-31"),
+    live: true,
+    maxedOutLanding: false,
+    maxedOutSearch: false
+  },
+  {
+    promoId: { id: 5 },
+    name: "Spring Fling",
+    description: "Spring-themed promotions on gardening supplies",
+    tierId: "tier5",
+    promoTypeId: 5,
+    start: new Date("2025-03-01"),
+    end: new Date("2025-03-31"),
+    live: true,
+    maxedOutLanding: false,
+    maxedOutSearch: false
+  }
+];
 
