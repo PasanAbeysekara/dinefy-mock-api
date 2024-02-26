@@ -9,7 +9,8 @@
     end: new Date("2024-06-30"),
     live: true,
     maxedOutLanding: false,
-    maxedOutSearch: false
+    maxedOutSearch: false,
+    image:"https://d3plttq4n63nzt.cloudfront.net/Rectangle_73.png"
   },
   {
     promoId: { id: 2 },
@@ -21,7 +22,8 @@
     end: new Date("2024-08-31"),
     live: true,
     maxedOutLanding: false,
-    maxedOutSearch: false
+    maxedOutSearch: false,
+    image:"https://d3plttq4n63nzt.cloudfront.net/Rectangle_74.png"
   },
   {
     promoId: { id: 3 },
@@ -33,7 +35,8 @@
     end: new Date("2024-12-31"),
     live: true,
     maxedOutLanding: false,
-    maxedOutSearch: false
+    maxedOutSearch: false,
+    image:"https://d3plttq4n63nzt.cloudfront.net/Rectangle_73.png"
   },
   {
     promoId: { id: 4 },
@@ -45,7 +48,8 @@
     end: new Date("2025-01-31"),
     live: true,
     maxedOutLanding: false,
-    maxedOutSearch: false
+    maxedOutSearch: false,
+    image:"https://d3plttq4n63nzt.cloudfront.net/Rectangle_74.png"
   },
   {
     promoId: { id: 5 },
@@ -57,7 +61,8 @@
     end: new Date("2025-03-31"),
     live: true,
     maxedOutLanding: false,
-    maxedOutSearch: false
+    maxedOutSearch: false,
+    image:"https://d3plttq4n63nzt.cloudfront.net/Rectangle_73.png"
   }
 ];
 
